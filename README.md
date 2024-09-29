@@ -1,5 +1,8 @@
 # MCQ Sheet Generator
 
+## Page Layout (Header, Footer)
+![image](https://github.com/user-attachments/assets/01bf7c08-1767-4fba-a222-8309be4d9c07)
+
 ## Modal Design
 ![image](https://github.com/user-attachments/assets/dec13ed7-bdab-4859-8c0f-dde5e9e87201)
 
